@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj": {}
+    "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj": {}
   },
   "projects": {
-    "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj": {
+    "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj",
+        "projectUniqueName": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj",
         "projectName": "codeforthecarolinas",
-        "projectPath": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj",
+        "projectPath": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj",
         "packagesPath": "/Users/ewmcelvaney/.nuget/packages/",
-        "outputPath": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/obj/",
+        "outputPath": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ewmcelvaney/.config/NuGet/NuGet.Config"

@@ -196,11 +196,11 @@
       "mscorlib.dll": "sha256-0qsbc1acYr3S6P7t9gSYyghOhMVs3CTJ9ukQ1VXqksY=",
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
-      "codeforthecarolinas.dll": "sha256-F6AnHMFdSQBZVEC4dhG2k2wvvKvVhTA\/tjvAFHEwbLE="
+      "codeforthecarolinas.dll": "sha256-qaMkLTgU1hcLZFj0iKNsrWTGoTXtyhuz9xld8YMPKyc="
     },
     "lazyAssembly": null,
     "pdb": {
-      "codeforthecarolinas.pdb": "sha256-3Y5zTPD5VhZUBOFkaCyHjEnLXOWnLiYtIPvx3sSvGmo="
+      "codeforthecarolinas.pdb": "sha256-qHAip3e0yl+BGysWaDONKzjdeq6D+s2FzsQyFddipDI="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",

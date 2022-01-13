@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C679DDD3-DFAA-494C-88F2-F56F21D88003}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/About.razor">
+    <Files>
+      <File FileName="Pages/About.razor" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.codeforthecarolinas PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
