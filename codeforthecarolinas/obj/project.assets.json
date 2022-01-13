@@ -1210,11 +1210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj",
+      "projectUniqueName": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj",
       "projectName": "codeforthecarolinas",
-      "projectPath": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj",
+      "projectPath": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj",
       "packagesPath": "/Users/ewmcelvaney/.nuget/packages/",
-      "outputPath": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/obj/",
+      "outputPath": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ewmcelvaney/.config/NuGet/NuGet.Config"

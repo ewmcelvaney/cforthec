@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8HXxvQ/MJ2jULcp3s27g/1pJhaAnnJg2w8anJLhUPQrHNlMPbeVTAgrK9cKm7G4gPbUOkOANfWh4zEMRVS3Hg==",
+  "dgSpecHash": "EjxBOrtC1TEhJd/8ZPWJyvIQx4xry6Tog6Pq/SZiy0vRTiOGYmIhdkxs14UtmRYJAefNSlg7gUEYZOD5C0Z74Q==",
   "success": true,
-  "projectFilePath": "/Users/ewmcelvaney/Documents/GitHub/cforthec/codeforthecarolinas/codeforthecarolinas.csproj",
+  "projectFilePath": "/Users/ewmcelvaney/Desktop/Code for the Carolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas/codeforthecarolinas.csproj",
   "expectedPackageFiles": [
     "/Users/ewmcelvaney/.nuget/packages/microsoft.aspnetcore.authorization/5.0.11/microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
     "/Users/ewmcelvaney/.nuget/packages/microsoft.aspnetcore.components/5.0.11/microsoft.aspnetcore.components.5.0.11.nupkg.sha512",
